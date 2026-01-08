@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.font-open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.logo img {
+    width: 139px;
+    height: 60px;
+}
+header {
+    background-color: #FFFFFF;
+    padding-top: 34px;
+
+}
+nav {
+    width: 1600px;
+    max-width: 1600px;
+    margin: 0% auto;
+    display:flex ;
+    justify-content: space-between;
+}
+nav .tolls {
+    display: flex;
+    list-style-type: none;
+}
